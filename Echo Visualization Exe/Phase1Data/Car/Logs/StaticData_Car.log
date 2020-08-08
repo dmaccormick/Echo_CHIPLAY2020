@@ -1,0 +1,686 @@
+OBJ_START~Ring_Easy (15)_5~False
+	TRK_START~Position
+		0.000~(155.840, 0.000, -0.220)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.879, 0.000, 0.477)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (15)_5
+OBJ_START~Cam_FinishLine_6~False
+	TRK_START~Position
+		0.000~(0.000, 14.380, 23.160)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.991, -0.131, 0.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Camera
+		0.000~60~0.3~1000
+	TRK_END~Camera
+OBJ_END~Cam_FinishLine_6
+OBJ_START~Ring_Hard (7)_8~False
+	TRK_START~Position
+		0.000~(187.850, 15.690, 101.330)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.150, 0.150, 0.150)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Red_Bright_Matte.mat~RGBA(1.000, 0.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Hard (7)_8
+OBJ_START~Ring_Hard (3)_12~False
+	TRK_START~Position
+		0.000~(69.500, 2.710, -77.270)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.707, 0.000, 0.707)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.150, 0.150, 0.150)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Red_Bright_Matte.mat~RGBA(1.000, 0.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Hard (3)_12
+OBJ_START~Ring_Hard (9)_13~False
+	TRK_START~Position
+		0.000~(187.920, 15.690, -48.600)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.150, 0.150, 0.150)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Red_Bright_Matte.mat~RGBA(1.000, 0.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Hard (9)_13
+OBJ_START~GoalPosts_17~False
+	TRK_START~Position
+		0.000~(187.550, 0.000, -48.500)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 1.000, 0.000, 0.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/GoalPosts.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~GoalPosts_17
+OBJ_START~MiniRamps (4)_18~False
+	TRK_START~Position
+		0.000~(85.402, 0.000, -25.639)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.689, 0.000, -0.724)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/MiniRamps.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~MiniRamps (4)_18
+OBJ_START~GoalPosts (2)_21~False
+	TRK_START~Position
+		0.000~(0.000, -11.400, 2.300)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 1.000, 0.000, 0.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.936, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/GoalPosts.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~GoalPosts (2)_21
+OBJ_START~Ring_Easy (13)_22~False
+	TRK_START~Position
+		0.000~(80.260, 0.000, 16.570)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.987, 0.000, 0.163)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (13)_22
+OBJ_START~Cam_Overview_27~False
+	TRK_START~Position
+		0.000~(-45.734, 117.331, 136.471)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.171, 0.809, -0.287, 0.483)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Camera
+		0.000~60~0.3~1000
+	TRK_END~Camera
+OBJ_END~Cam_Overview_27
+OBJ_START~Loop_28~False
+	TRK_START~Position
+		0.000~(78.190, -0.220, -80.900)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, -0.707, 0.000, -0.707)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Loop.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Loop_28
+OBJ_START~Ring_Hard (11)_29~False
+	TRK_START~Position
+		0.000~(113.800, 35.800, -85.300)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.475, 0.524, -0.475, 0.524)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.150, 0.150, 0.150)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Red_Bright_Matte.mat~RGBA(1.000, 0.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Hard (11)_29
+OBJ_START~Ring_Easy (20)_33~False
+	TRK_START~Position
+		0.000~(-2.800, 0.000, -66.900)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.207, 0.000, -0.978)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (20)_33
+OBJ_START~Ring_Medium (7)_35~False
+	TRK_START~Position
+		0.000~(158.900, 5.670, -41.700)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 1.000, 0.000, -0.025)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (7)_35
+OBJ_START~Cam_Loop_36~False
+	TRK_START~Position
+		0.000~(82.910, 48.300, -22.998)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.994, -0.114, -0.002)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Camera
+		0.000~60~0.3~1000
+	TRK_END~Camera
+OBJ_END~Cam_Loop_36
+OBJ_START~Ring_Easy (3)_39~False
+	TRK_START~Position
+		0.000~(47.990, 0.000, 129.460)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.436, 0.000, 0.900)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (3)_39
+OBJ_START~Ring_Easy (8)_40~False
+	TRK_START~Position
+		0.000~(169.700, 0.000, 176.750)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 1.000, 0.000, 0.018)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (8)_40
+OBJ_START~Ring_Easy (17)_44~False
+	TRK_START~Position
+		0.000~(160.153, 0.000, -92.097)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.925, 0.000, -0.380)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (17)_44
+OBJ_START~MiniRamps_46~False
+	TRK_START~Position
+		0.000~(-7.720, 0.000, 45.680)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/MiniRamps.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~MiniRamps_46
+OBJ_START~MiniRamps (3)_48~False
+	TRK_START~Position
+		0.000~(159.139, 0.000, -38.698)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 1.000, 0.000, -0.025)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/MiniRamps.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~MiniRamps (3)_48
+OBJ_START~Ring_Medium (6)_49~False
+	TRK_START~Position
+		0.000~(134.910, 5.670, 62.000)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.914, 0.000, -0.405)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (6)_49
+OBJ_START~Ring_Medium (2)_50~False
+	TRK_START~Position
+		0.000~(6.730, 1.460, -26.900)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (2)_50
+OBJ_START~MiniRamps (1)_52~False
+	TRK_START~Position
+		0.000~(46.000, 0.000, 148.000)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.383, 0.000, 0.924)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/MiniRamps.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~MiniRamps (1)_52
+OBJ_START~Ring_Medium (8)_55~False
+	TRK_START~Position
+		0.000~(76.513, 1.460, -80.960)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.707, 0.000, 0.707)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (8)_55
+OBJ_START~Ring_Medium (10)_56~False
+	TRK_START~Position
+		0.000~(82.400, 5.670, -25.400)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.689, 0.000, -0.724)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (10)_56
+OBJ_START~Ring_Medium (1)_62~False
+	TRK_START~Position
+		0.000~(-7.630, 5.670, 48.690)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (1)_62
+OBJ_START~Ring_Easy (11)_63~False
+	TRK_START~Position
+		0.000~(133.233, 0.000, 76.040)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.722, 0.000, -0.692)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (11)_63
+OBJ_START~Ring_Hard (8)_64~False
+	TRK_START~Position
+		0.000~(-7.600, 5.720, 54.000)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.150, 0.150, 0.150)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Red_Bright_Matte.mat~RGBA(1.000, 0.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Hard (8)_64
+OBJ_START~Ring_Easy (1)_66~False
+	TRK_START~Position
+		0.000~(0.140, 0.000, 83.950)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (1)_66
+OBJ_START~Ring_Medium (5)_68~False
+	TRK_START~Position
+		0.000~(188.000, 9.700, -16.350)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (5)_68
+OBJ_START~Ring_Medium (11)_69~False
+	TRK_START~Position
+		0.000~(187.983, 0.460, 172.420)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, -0.228, 0.000, 0.974)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (11)_69
+OBJ_START~Ring_Hard (10)_73~False
+	TRK_START~Position
+		0.000~(51.217, 29.703, -85.300)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.475, 0.524, -0.475, 0.524)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.150, 0.150, 0.150)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Red_Bright_Matte.mat~RGBA(1.000, 0.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Hard (10)_73
+OBJ_START~PrimaryJumpRamp_74~False
+	TRK_START~Position
+		0.000~(6.500, 0.000, -17.500)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, -1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/PrimaryJumpRamp.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~PrimaryJumpRamp_74
+OBJ_START~Ring_Medium (4)_75~False
+	TRK_START~Position
+		0.000~(187.950, 0.460, 128.600)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (4)_75
+OBJ_START~MiniRamps (2)_76~False
+	TRK_START~Position
+		0.000~(137.201, 0.000, 63.954)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.914, 0.000, -0.405)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/MiniRamps.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~MiniRamps (2)_76
+OBJ_START~Ring_Easy (9)_78~False
+	TRK_START~Position
+		0.000~(169.900, 0.000, 124.200)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 1.000, 0.000, 0.018)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (9)_78
+OBJ_START~Ring_Easy_79~False
+	TRK_START~Position
+		0.000~(0.000, 0.000, 7.520)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy_79
+OBJ_START~Ring_Hard (6)_80~False
+	TRK_START~Position
+		0.000~(6.600, 15.690, 2.470)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.150, 0.150, 0.150)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Red_Bright_Matte.mat~RGBA(1.000, 0.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Hard (6)_80
+OBJ_START~GroundTrackVerges_84~False
+	TRK_START~Position
+		0.000~(0.000, 0.000, 0.000)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Individual OBJs/Car/Car_Ground_Verges.obj~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~GroundTrackVerges_84
+OBJ_START~GroundTrack_85~False
+	TRK_START~Position
+		0.000~(0.000, 0.000, 0.000)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Individual OBJs/Car/Car_Ground_Track.obj~Assets/SampleScenes/Materials/NavyDarkGrid.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~GroundTrack_85
+OBJ_START~GroundExtents_86~False
+	TRK_START~Position
+		0.000~(0.000, 0.000, 0.000)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, 1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.000, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Individual OBJs/Car/Car_Ground_Extents.obj~Assets/SampleScenes/Materials/NavySmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~GroundExtents_86
+OBJ_START~RampElevated_92~False
+	TRK_START~Position
+		0.000~(187.800, 0.000, 50.500)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.000, 0.000, -1.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.375, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/RampElevated.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~RampElevated_92
+OBJ_START~Ring_Hard (5)_98~False
+	TRK_START~Position
+		0.000~(73.600, 61.400, -81.750)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(-0.175, 0.685, 0.175, 0.685)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.150, 0.150, 0.150)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Red_Bright_Matte.mat~RGBA(1.000, 0.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Hard (5)_98
+OBJ_START~Ring_Easy (19)_102~False
+	TRK_START~Position
+		0.000~(91.300, 0.000, -36.500)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.681, 0.000, -0.732)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (19)_102
+OBJ_START~GoalPosts (1)_109~False
+	TRK_START~Position
+		0.000~(0.000, 0.000, 2.300)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 1.000, 0.000, 0.000)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(1.936, 1.000, 1.000)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/GoalPosts.fbx~Assets/SampleScenes/Materials/WhiteSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~GoalPosts (1)_109
+OBJ_START~Ring_Medium (3)_110~False
+	TRK_START~Position
+		0.000~(48.192, 5.670, 150.065)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.383, 0.000, 0.924)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (3)_110
+OBJ_START~Ring_Hard (12)_111~False
+	TRK_START~Position
+		0.000~(53.040, 5.720, 155.210)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.383, 0.000, 0.924)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.150, 0.150, 0.150)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Red_Bright_Matte.mat~RGBA(1.000, 0.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Hard (12)_111
+OBJ_START~Ring_Medium (9)_114~False
+	TRK_START~Position
+		0.000~(87.210, 1.460, -88.970)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.707, 0.000, 0.707)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.250, 0.250, 0.250)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/SampleScenes/Materials/YellowSmooth.mat~RGBA(1.000, 1.000, 1.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Medium (9)_114
+OBJ_START~Ring_Easy (5)_127~False
+	TRK_START~Position
+		0.000~(101.700, 0.000, 206.600)
+	TRK_END~Position
+	TRK_START~Rotation
+		0.000~(0.000, 0.436, 0.000, 0.900)
+	TRK_END~Rotation
+	TRK_START~Scale
+		0.000~(0.350, 0.350, 0.350)
+	TRK_END~Scale
+	TRK_START~Renderables
+		0.000~Assets/SampleScenes/Models/Ring.fbx~Assets/Thesis/Test Assets/Materials/Green_Bright_Matte.mat~RGBA(0.000, 1.000, 0.000, 1.000)
+	TRK_END~Renderables
+OBJ_END~Ring_Easy (5)_127
