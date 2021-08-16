@@ -1,6 +1,8 @@
 # Echo - CHI PLAY 2020
 Daniel MacCormick and Loutfouz Zaman
 
+This repository is supplementary to the full paper published and presented at CHI PLAY 2020 entitled "Echo: Analyzing Gameplay Sessions by Reconstructing Them From Recorded Data". The paper can be seen on the ACM Digital Library here: https://dl.acm.org/doi/10.1145/3410404.3414254.
+
 This repository holds two main items:
 
 1) The Unity package for Echo, containing all of its source code.
